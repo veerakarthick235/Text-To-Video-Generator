@@ -1,0 +1,21 @@
+# === Core Framework ===
+Flask==3.0.3
+Flask-Cors==5.0.0
+
+# === Environment Management ===
+python-dotenv==1.0.1
+
+# === Google Gemini API ===
+google-generativeai==0.8.3
+
+# === Video Processing ===
+moviepy==2.1.1
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+numpy==1.26.4
+Pillow==10.4.0
+proglog==0.1.12
+
+# === Utility ===
+requests==2.32.3
+tqdm==4.67.1
