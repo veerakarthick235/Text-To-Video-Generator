@@ -141,8 +141,8 @@ npm start
 **Veera Karthick**  
 _AI & Data Science Student | Passionate about solving real-world problems_  
 
-📧 **Contact:** veerakarthick.dev@example.com  
-🌐 **Portfolio:** [https://veerakarthick.dev](https://veerakarthick.dev)  
+📧 **Contact:** veerakarthick235@gmail.com  
+🌐 **Portfolio:** [https://karthick.site/](https://karthick.site/)  
 
 ---
 
