@@ -118,15 +118,6 @@ npm start
 
 ---
 
-## 🌌 Preview  
-
-| UI | Description |
-|----|--------------|
-| ![UI Screenshot](assets/ui-preview.png) | AI-Themed Interface |
-| ![Video Example](assets/video-preview.gif) | Generated Short Video |
-
----
-
 ## 🧱 Future Enhancements  
 
 - 🧬 Add OpenAI Video or Stability AI integration for direct AI rendering  
